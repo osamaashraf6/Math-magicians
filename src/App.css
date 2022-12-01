@@ -1,3 +1,8 @@
 .App {
   text-align: center;
+  color: #ff7b1c;
+  margin-top: 69px;
+  font-size: 24px;
+  letter-spacing: 8px;
+  text-shadow: 0 2px 9px azure;
 }
