@@ -6,7 +6,7 @@ export default class Calculator extends Component {
   render() {
     return (
       <>
-        {/* start sectionone */}
+        {/* start sectiononee */}
         <section className="sectionone" id="sectionone">
           <div className="sectionone__wrapper">
             <div className="formcontrol">
