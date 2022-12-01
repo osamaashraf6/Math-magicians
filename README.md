@@ -88,6 +88,7 @@ After you're finished please remove all the comments and instructions!
 ## 💻 Getting Started <a name="getting-started"></a>
 
 
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -98,6 +99,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+
 
 ```sh
   cd my-folder
@@ -152,6 +154,7 @@ To run tests, run the following command:
 - [x] I will add the functionality for this app👌.
 - [x] I will convert this project from using the class based components into using the function component and hooks💯.
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -171,9 +174,7 @@ Feel free to check the [issues page](../../issues/).
 > If you like this project you can give me a star 😊 just to prove my app that it is useful for everyone and the users can use it to calculate any thing 💯.
 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
