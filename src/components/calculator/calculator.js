@@ -10,7 +10,7 @@ export default class Calculator extends Component {
         <section className="sectionone" id="sectionone">
           <div className="sectionone__wrapper">
             <div className="formcontrol">
-              <input type="text" name="name" placeholder="Enter the calc" />
+              <input type="text" name="name" value="0" />
             </div>
             <div className="btns">
               <button type="button">AC</button>

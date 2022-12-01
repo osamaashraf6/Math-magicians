@@ -72,6 +72,9 @@ section {
   outline: 0;
   padding: 29px;
   text-align: right;
+  color: #fff;
+  background-color: #989898;
+  font-size: 22px;
 }
 
 .btns > button {
