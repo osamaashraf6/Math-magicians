@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import calculate from '../logic/calculate';
+import operate from '../logic/operate';
 import './calculator.css';
 
 // eslint-disable-next-line react/prefer-stateless-function
