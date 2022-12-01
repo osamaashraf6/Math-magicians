@@ -1,7 +1,17 @@
+import React, { Component } from 'react';
+import Calculator from './components/calculator/calculator';
 import './App.css';
 
-function App() {
-  return <div className="App">we created the app using the cra powered by osama</div>;
+// eslint-disable-next-line react/prefer-stateless-function
+class App extends Component {
+  render() {
+    return (
+      <>
+        <div className="App">powered By osama</div>
+        <Calculator />
+      </>
+    );
+  }
 }
 
 export default App;

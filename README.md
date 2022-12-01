@@ -59,9 +59,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Math__magicians] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This project is a calculator app I created with react js👌, the user can solve any calculations by the app. 
 
-**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,14 +77,16 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- [x] Add the UI of the calculator app.💯
+- [x] Add the css for this component.
+- [x] Use the class based components for the calculator app👌.
 
-- **[Setup Project]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 
 To get a local copy up and running, follow these steps.
@@ -98,6 +99,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
+
 
 ```sh
   cd my-folder
@@ -149,8 +151,9 @@ To run tests, run the following command:
 
 > Describe 1 - 3 features I will add to the project.
 
-- [x] Follow the git flow.
-- [x] Setup the app using the cra. 💯
+- [x] I will add the functionality for this app👌.
+- [x] I will convert this project from using the class based components into using the function component and hooks💯.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,19 +171,12 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+> If you like this project you can give me a star 😊 just to prove my app that it is useful for everyone and the users can use it to calculate any thing 💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
