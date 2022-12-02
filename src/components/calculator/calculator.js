@@ -2,8 +2,7 @@ import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import './calculator.css';
 
-// eslint-disable-next-line react/prefer-stateless-function
-export default function Calculator() {
+const Calculator = () => {
   const [data, setData] = useState({
     total: '0',
     next: null,
@@ -59,4 +58,5 @@ export default function Calculator() {
       {/* end sectionone */}
     </>
   );
-}
+};
+export default Calculator;
