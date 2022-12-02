@@ -54,7 +54,6 @@ export default class Calculator extends Component {
           <div className="sectionone__wrapper">
             <div className="formcontrol">
               {next ? (<input type="text" name="name" value={next} />) : (<input type="text" name="name" value={total} />)}
-
             </div>
             <div className="btns">
               {btns.map((btn) => (
