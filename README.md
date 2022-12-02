@@ -77,9 +77,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- [x] I will add the functionality for this app👍.
-- [x] I will convert this project from using the class based components into using the function component and hooks💯.
-- [x] Use the class based components for the calculator app👌.
+- [x] I added the functionality for this app👍.
+- [x] I converted this project from using the class based components into using the function component and hooks💯.
 
 
 
@@ -152,7 +151,7 @@ To run tests, run the following command:
 > Describe 1 - 3 features I will add to the project.
 
 
-- [x] I will convert the class based components into the function components using hooks👌💯.
+- [x] I will test this app using library from react or may be use jest to test it👌💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -182,7 +181,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
