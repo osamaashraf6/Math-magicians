@@ -77,8 +77,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- [x] Add the UI of the calculator app.💯
-- [x] Add the css for this component.
+- [x] I will add the functionality for this app👍.
+- [x] I will convert this project from using the class based components into using the function component and hooks💯.
 - [x] Use the class based components for the calculator app👌.
 
 
@@ -151,8 +151,8 @@ To run tests, run the following command:
 
 > Describe 1 - 3 features I will add to the project.
 
-- [x] I will add the functionality for this app👌.
-- [x] I will convert this project from using the class based components into using the function component and hooks💯.
+
+- [x] I will convert the class based components into the function components using hooks👌💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
