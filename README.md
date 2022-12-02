@@ -77,9 +77,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- [x] I will add the functionality for this app👍.
-- [x] I will convert this project from using the class based components into using the function component and hooks💯.
-- [x] Use the class based components for the calculator app👌.
+- [x] I added the functionality for this app👍.
+- [x] I converted this project from using the class based components into using the function component and hooks💯.
 
 
 
@@ -152,7 +151,7 @@ To run tests, run the following command:
 > Describe 1 - 3 features I will add to the project.
 
 
-- [x] I will convert the class based components into the function components using hooks👌💯.
+- [x] I will test this app using library from react or may be use jest to test it👌💯.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
