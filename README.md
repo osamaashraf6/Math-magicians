@@ -60,6 +60,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Math__magicians] <a name="about-project"></a>
 
 > This project is a calculator app I created with react js👌, the user can solve any calculations by the app. 
+![Screenshot 2022-12-02 153440](https://user-images.githubusercontent.com/83360636/205304798-f078f73c-2c0f-47ca-b770-7cc3226bafde.png)
 
 
 ## 🛠 Built With <a name="built-with"></a>
