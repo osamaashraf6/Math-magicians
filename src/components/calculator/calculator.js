@@ -43,6 +43,7 @@ const Calculator = () => {
   return (
     <>
       {/* start sectiononee */}
+      <div className="App">powered By osama</div>
       <section className="sectionone" id="sectionone">
         <div className="sectionone__wrapper">
           <div className="formcontrol">
