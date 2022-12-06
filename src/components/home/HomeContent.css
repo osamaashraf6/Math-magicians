@@ -1,0 +1,17 @@
+.welcome {
+  width: fit-content;
+  margin: 54px;
+  color: beige;
+  font-size: 18px;
+  letter-spacing: 5px;
+  border-bottom: 1px solid;
+}
+
+p {
+  color: chocolate;
+  padding: 20px;
+  border: 1px solid;
+  width: 60%;
+  margin: 38px auto;
+  border-radius: 5px;
+}

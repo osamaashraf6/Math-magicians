@@ -79,7 +79,8 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 - [x] I added the functionality for this app👍.
-- [x] I converted this project from using the class based components into using the function component and hooks💯.
+- [x] I used the react-router-dom to navigate into the routes of the app💯.
+- [x] I used the basic css style for styling the components.
 
 
 

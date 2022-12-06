@@ -6,3 +6,14 @@
   letter-spacing: 8px;
   text-shadow: 0 2px 9px azure;
 }
+
+.math {
+  color: antiquewhite;
+  font-size: 28px;
+  letter-spacing: 8px;
+  margin: 30px;
+  box-shadow: 0 0 9px azure;
+  width: fit-content;
+  border-radius: 5px;
+  padding: 6px;
+}
