@@ -23,6 +23,7 @@ nav {
   display: block;
   font-size: 17px;
   transition: all 0.5s;
+  color: #0b1439;
 }
 
 .nav__container__parnav__ul > li > a:hover {
