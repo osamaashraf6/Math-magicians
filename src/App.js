@@ -9,9 +9,10 @@ import './App.css';
 const App = () => (
   <>
     <BrowserRouter>
-      <div className="math">Math Magicians</div>
       <Nav />
+      <div className="math">Math Magicians</div>
       <Routes>
+        <Route index element={<Home />} />
         <Route path="home" element={<Home />} />
         <Route path="calculation" element={<Calculation />} />
         <Route path="quote" element={<Quote />} />
