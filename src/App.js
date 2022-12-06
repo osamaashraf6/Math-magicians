@@ -8,9 +8,8 @@ import './App.css';
 
 const App = () => (
   <>
-
-    {/* <Calculator /> */}
     <BrowserRouter>
+      <div className="math">Math Magicians</div>
       <Nav />
       <Routes>
         <Route path="home" element={<Home />} />
