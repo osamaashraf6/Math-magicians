@@ -1,8 +1,9 @@
 import React from 'react';
+import QuoteContent from '../components/quote/QuoteContent';
 
 function Quote() {
   return (
-    <div>Quote</div>
+    <QuoteContent />
   );
 }
 
